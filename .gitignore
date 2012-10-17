@@ -1,0 +1,17 @@
+*.log
+/.idea
+/target
+/out
+/*.iml
+/*.ipr
+/*.iws
+/temp
+.DS_Store
+
+# /web-app/
+/web-app/plugins
+
+# /web-app/WEB-INF/
+/web-app/WEB-INF/grails.xml
+/web-app/WEB-INF/classes/
+/web-app/js/prototype/
